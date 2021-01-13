@@ -1,0 +1,15 @@
+body{ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
+        h1 { 
+            background-color: yellow; 
+            border: 1px solid gray;
+            padding: 50px;
+            border-radius: 10px;
+            text-align:center
+            f
+        }
+        h2 { color: red; }
+        img { 
+            border: 2px solid green; 
+            border-radius: 10px;
+            padding: 2%;
+        }
